@@ -9,3 +9,7 @@ Repository for Python Tech Academy Projects
 - Created using Python 3 and the sqlite3 module a Database that has two columns.
 - Separated values from a list, iterating through the list for any value(s) that contain (.txt).
 - Submitted these values to the database and printed verification of the .txt files to the console.
+
+### [Inheritance Submission Assignment](https://github.com/Kelinz74/Python-Projects/blob/main/InheritanceSubmissionAssignment.py)
+- Created two classes that inherit from another class.
+- Gave each child class at least two of their own attributes.
