@@ -13,3 +13,9 @@ Repository for Python Tech Academy Projects
 ### [Inheritance Submission Assignment](https://github.com/Kelinz74/Python-Projects/blob/main/InheritanceSubmissionAssignment.py)
 - Created two classes that inherit from another class.
 - Gave each child class at least two of their own attributes.
+
+### [Polymorphism Submission Assignment](https://github.com/Kelinz74/Python-Projects/blob/main/PolymorphismSubmissionAssignment.py)
+- Created two classes that inherit from another class.
+- Each child class has at least two of their own attributes.
+- The parent class has at least one method (function).
+- Both child classes utilize polymorphism on the parent class method. 
