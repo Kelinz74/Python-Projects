@@ -19,3 +19,8 @@ Repository for Python Tech Academy Projects
 - Each child class has at least two of their own attributes.
 - The parent class has at least one method (function).
 - Both child classes utilize polymorphism on the parent class method. 
+
+###[Encapsulation Submission Assignment](https://github.com/Kelinz74/Python-Projects/blob/main/EncapsulationSubmissionAssignment.py)
+- Created a class that will make use of a private attribute or function.
+- Created a class that will make use of a protected attribute or function.
+- Created objects that makes use of the protected and private functions or attributes.
