@@ -24,3 +24,8 @@ Repository for Python Tech Academy Projects
 - Created a class that will make use of a private attribute or function.
 - Created a class that will make use of a protected attribute or function.
 - Created objects that makes use of the protected and private functions or attributes.
+
+### [Abstraction Submission Assignment](https://github.com/Kelinz74/Python-Projects/blob/main/Abstraction_main.py)
+- Created a class containing at least one abstract method and one regular method.
+- Created a child class that defines implementation of its parents abstract method.
+- Created an object that utilizes both the parent and child methods.
