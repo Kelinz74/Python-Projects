@@ -29,3 +29,8 @@ Repository for Python Tech Academy Projects
 - Created a class containing at least one abstract method and one regular method.
 - Created a child class that defines implementation of its parents abstract method.
 - Created an object that utilizes both the parent and child methods.
+
+### [Web Page Generator Submission Assignment](https://github.com/Kelinz74/Python-Projects/blob/main/WebPageGenerator_GUI.py)
+- Created a GUI that allows the user to input text and initiate the web page generation process.
+- Generates a web page that sets the user's input as the body text for the web page.
+- Opens the generated web page in the default browser. 
