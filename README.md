@@ -34,3 +34,8 @@ Repository for Python Tech Academy Projects
 - Created a GUI that allows the user to input text and initiate the web page generation process.
 - Generates a web page that sets the user's input as the body text for the web page.
 - Opens the generated web page in the default browser. 
+
+### [File Transfer Part Three Submission Assignment](https://github.com/Kelinz74/Python-Projects/blob/main/FileTransferAssignment3.py)
+- Browse and choose a specific folder that will contain the files to be checked.
+- Browse and choose a specific folder that will receive the copied files.
+- Manually initiate the 'File Check' process that is performed by the script.
